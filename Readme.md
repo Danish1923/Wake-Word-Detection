@@ -1,15 +1,17 @@
-Wake Word Detection Program
-Overview
+Wake Word Detection Program Overview
+
 This Python program listens for predefined wake words ("HELP PLEASE" and "EMERGENCY") and responds with an audio and textual acknowledgment, saying, "I will help you." It uses the speech_recognition library for voice input and pyttsx3 for text-to-speech output.
 
-Features
+Features:
 Wake Word Detection: Listens for specific phrases ("HELP PLEASE", "EMERGENCY").
 Speech Recognition: Converts speech to text using the Google Web Speech API.
 Text-to-Speech Response: Provides audible feedback when a wake word is detected.
 Continuous Listening: Operates in an infinite loop, continuously awaiting wake words.
 Prerequisites
+
 Software Requirements
 Python 3.7 or above.
+
 Libraries:
 speech_recognition
 pyttsx3
