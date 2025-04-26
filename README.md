@@ -6,7 +6,7 @@ Features
 Wake Word Detection: Listens for specific phrases ("HELP PLEASE", "EMERGENCY").
 Speech Recognition: Converts speech to text using the Google Web Speech API.
 Text-to-Speech Response: Provides audible feedback when a wake word is detected.
-Continuous Listening: Operates in an infinite loop, continuously awaiting wake words.
+Continuous Listening: Operates in an infinite loop, continuously awaitingwake words.
 Prerequisites
 Software Requirements
 Python 3.7 or above.
